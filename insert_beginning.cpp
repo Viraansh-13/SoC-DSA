@@ -1,3 +1,4 @@
+// This code includes functions for other questions like print, delete node, detect middle, detect loop etc etc.
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
